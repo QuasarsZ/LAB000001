@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="a37e22348c028b2fb9866ab86b4813a730a15698">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1cbd20d20daa58690f46d7f9423b632ae0124b40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\.android\build-cache\90c32e20979bff986a79861622dc8574ca223623\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae1fa33e0336953c899aabd1554b18f35739b8b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\.android\build-cache\10424683e8c87b88b5305472769cd56a85437057\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dfd559a3a77ee035a65f1bd6c20f4e34c77e687\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\.android\build-cache\e44871fa38ad92d953ba0d55c6b5cfa4a7fd0790\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bc5444c11a71c42b64e61d7f593726799d9e475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_d95881cb9391df478e33970210907a507bc85b9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\.android\build-cache\a3077d5d9f191ab1391f6f8290135d710b26041e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9f806017ccbbf0fbfb1485cf0509963f09096fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_223a0c0bcba280954def6fc3f7a81e39c81581a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\.android\build-cache\66d7eaffeb0460f24886fbb7c963b05b94a91f2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2fe29f6d1ac3474d80da2570c305e71ab775ae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\.android\build-cache\5a5033926676430f1252ca922bb33fa3bf4f2152\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91acab967ce6a730f623f7a3f282e883981ab15e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_578c8d86cf204c61f352a0b3adddbfccdca480ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\.android\build-cache\feb682a4c8fa6c8434712d5981fef6853aa8cead\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9de100691ab906d411df0db8fa521072154608c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\.android\build-cache\90815b7feb58d2947a914a1b227fd8dbc8b04c88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbf2aea9af0868c57c8021d069729d8350b9e4a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\.android\build-cache\5f05cfd2ea50398f4e0e181bed73a22491c685db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8532d72d70337f9f972e54989a6a392965286649\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HPCTG09\.android\build-cache\18b9c3a47519ee29aadc48e44496b38f10c7523e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\HPCTG09\Desktop\LAB1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_224a374078abd8c104f042d45dc3bdfd0f847c6d\classes.dex" />
+    </item>
+
+</items>
